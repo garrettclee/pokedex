@@ -13,6 +13,7 @@
 		B4761B441E10EBAA002CAF9A /* Pokedex.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B4761B421E10EBAA002CAF9A /* Pokedex.xcdatamodeld */; };
 		B4761B461E10EBAA002CAF9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4761B451E10EBAA002CAF9A /* Assets.xcassets */; };
 		B4761B491E10EBAA002CAF9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4761B471E10EBAA002CAF9A /* LaunchScreen.storyboard */; };
+		B4761B511E10ED9E002CAF9A /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = B4761B501E10ED9E002CAF9A /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B4761B451E10EBAA002CAF9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B4761B481E10EBAA002CAF9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B4761B4A1E10EBAA002CAF9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B4761B501E10ED9E002CAF9A /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = pokemon.csv; path = ../pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				B4761B3F1E10EBAA002CAF9A /* Main.storyboard */,
 				B4761B451E10EBAA002CAF9A /* Assets.xcassets */,
 				B4761B471E10EBAA002CAF9A /* LaunchScreen.storyboard */,
+				B4761B501E10ED9E002CAF9A /* pokemon.csv */,
 				B4761B4A1E10EBAA002CAF9A /* Info.plist */,
 				B4761B421E10EBAA002CAF9A /* Pokedex.xcdatamodeld */,
 			);
@@ -128,6 +131,7 @@
 			files = (
 				B4761B491E10EBAA002CAF9A /* LaunchScreen.storyboard in Resources */,
 				B4761B461E10EBAA002CAF9A /* Assets.xcassets in Resources */,
+				B4761B511E10ED9E002CAF9A /* pokemon.csv in Resources */,
 				B4761B411E10EBAA002CAF9A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
